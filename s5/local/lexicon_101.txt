@@ -1,0 +1,311 @@
+!SIL sil
+<SPOKEN_NOISE> sil
+accordo a kk O r d o 
+accordo a kk sil O r d o 
+altri a l t r i 
+altri a l sil t r i 
+apri a p r i
+apri a sil p r i 
+arancione a r a n tS o n e
+arancione a r a n sil tS o n e 
+arancione a r a n tS sil o n e  
+aveva a v e v a 
+aveva a sil v e v a
+avevano a v e v a n o 
+avevano a v e sil v a n o 
+bagno b a JJ o 
+bagno b a sil JJ o
+bambini b a m b i n i 
+bambini b a sil m b i n i 
+camera k a m E r a 
+canale k a n a l e 
+cancello k a n tS E ll o 
+cancello k a n sil tS E ll o 
+cancello k a n sil tS E sil ll o 
+chiudi k j u d i 
+chiudi k j u sil d i 
+cinque tS i n k w e 
+cinque tS i sil n k w e 
+cinque tS sil i sil n k w sil e 
+corte k o r t e 
+corte k o r sil t e 
+corte k o sil r t e 
+cosa k O s a
+cosa k O sil s a 
+dato d a t o 
+dato d a sil t o 
+dieci d j E tS i 
+dieci d j E sil tS i 
+economico e k o n O m i k o 
+economico e sil k o n O sil m i k o
+economico e sil k o n O m i k o
+economico e sil k o n O m i sil k o
+erano E r a n o 
+fanno f a nn o 
+fanno f a sil nn o 
+fanno f a sil nn sil o 
+giorno dZ o r n o 
+giorno dZ o sil r n o 
+guerra g w E rr a 
+guerra g w E sil rr a 
+guerra g w E sil rr sil a 
+hanno a nn o 
+hanno a sil nn o
+hanno a sil nn sil o
+inverno i n v E r n o
+inverno i n v E sil r n o 
+inverno i n sil v E sil r n o
+italiano i t a l j a n o 
+italiano i t a l j a sil a n o 
+italiano i sil t a l j a n o 
+italiano i t a l j a sil n o 
+madre m a d r e 
+madre m a sil d r e
+mattino m a tt i n o 
+mattino m a sil tt i n o 
+mattino m a tt sil i n o 
+milioni m i l j o n i 
+milioni m i l j o sil o n i 
+necessario n e tS e ss a r j o 
+necessario n e tS e ss sil a r j o
+nuova n w O v a 
+nuova n w O sil v a 
+nuova n w O O v a 
+parti p a r t i 
+parti p a sil a r t i 
+parti p a sil r t i 
+parti p a sil r t i i 
+particolare p a r t i k o l a r e 
+particolare p a r sil t i k o l a r e 
+particolare p a sil r t i k o l a sil r e 
+particolare p a r t i sil k o l a r e 
+resto r E s t o 
+resto r E sil s t o
+scenario S e n a r j o 
+scenario S e n a sil r j o 
+scenario S e sil n a sil r j o 
+seconda s e k o n d a 
+seconda s e k o sil n d a 
+seconda s e sil k o n sil d a 
+siano s i a n o 
+sinistra s i n i s t r a 
+sinistra s i n i sil s t r a 
+soffitta s o ff j tt a 
+soffitta s o sil ff j sil tt a 
+soffitta s o ff j a sil tt a 
+studio s t u d j o 
+studio s t u sil d j o 
+su s u 
+su s sil u 
+umidita u m i d i t a 
+umidita u sil m i sil d i sil t a
+umidita u m i sil d i t a
+unica u n i k a 
+unica u n i k sil a 
+unica u n i sil k a 
+zero dz E r o 
+zero dz E sil r o 
+donne d O nn e 
+giallo dZ a ll o 
+troppo t r o pp o 
+abbassa a bb a ss a 
+accendi a ttS E n d i 
+alza a l ts a 
+avrebbe a v r E bb e 
+buona b w O n a 
+chiesa k j E z a 
+donna d O nn a 
+famiglia f a m i LL a 
+figli f i LL i 
+figlio f i LL o 
+forza f O r ts a 
+mezzo m E ddz o 
+paesi p a e z i 
+piccolo p i kk o l o 
+quattro k w a tt r o 
+servizio s e r v i tts j o 
+soggiorno s o ddZ o r n o 
+spegni s p e JJ i 
+terrazzo t e rr a tts o 
+ufficio u ff i tS o 
+vecchio v E kk j o 
+disimpegno d i z i m p e JJ o 
+maggiore m a ddZ o r e 
+occhi O kk i 
+pubblico p u bb l i k o 
+saranno s a r a nn o 
+scelta S e l t a 
+sveglia z v e LL i a 
+uscita u SS i t a 
+veneziane v e n e tts j a n e 
+difficile d i ff i tS i l e 
+luogo l w O g o 
+corridoio k o rr i d o j o 
+alghe a l g e 
+avvolgere a vv O l dZ e 
+braccio b r a ttS o 
+compra k o m p r a 
+concluso k o n k l u z o 
+consumi k o n s u m i 
+devono d E v o n o 
+disgrazia d i z g r a tts j a 
+drago d r a g o 
+escluso e s k l u z o 
+farfalla f a r f a ll a 
+generale dZ e n e r a l e 
+gradi g r a d i 
+importante i m p o r t a n t e 
+mansarda m a n s a r d a 
+mosca m o s k a 
+nostri n O s t r i 
+pergolato p e r g o l a t o 
+plagio p l a dZ o 
+sbarra z b a rr a 
+sbrana z b r a n a 
+sembra s e m b r a 
+smalto z m a l t o 
+soldato s o l d a t o 
+splende s p l E n d e 
+spremuta s p r e m u t a 
+strada s t r a d a 
+aeroplano a e r o p l a n o 
+afoso a f o s o 
+aiuto a j u t o 
+androne a n d r o n e 
+argenteo a r dZ E n t o 
+barca b a r k a 
+blu b l u 
+cento tS E n t o 
+completo k o m p l E t o 
+corpo k O r p o 
+cuore k w O r e 
+delfino d e l f i n o 
+dentifricio d e n t i f r i tS o 
+destra d E s t r a 
+diverse d i v E r s e 
+diversi d i v E r s i 
+domanda d o m a n d a 
+egregio e g r E dZ o 
+entrata e n t r a t a 
+erba E r b a 
+estate e s t a t e 
+fare f a r e 
+film f i l m 
+flauto f l a u t o 
+giardino dZ a r d i n o 
+giu dZ i u 
+glicine g l i tS i n e 
+gnocchi J O kk i 
+grande g r a n d e 
+idea i d E a 
+ieri j E r i 
+incrocio i n k r o tS o 
+influenza i n f l u E n ts a 
+ingresso i n g r E ss o 
+lacrime l a k r i m e 
+leggono l E gg o n o 
+libro l i b r o 
+lungo l u n g o 
+mamma m a mm a 
+molto m o l t o 
+momento m o m e n t o 
+nero n e r o 
+nessuno n e ss u n o 
+padre p a d r e 
+perle p E r l e 
+persone p e r s o n e 
+pinza p i n ts a 
+porta p O r t a 
+pulcino p u l tS i n o 
+qualsiasi k w a l s i a s i 
+riflesso r i f l E ss o 
+rinfrescante r i n f r e s k a n t e 
+ruspa r u s p a 
+sapere s a p e r e 
+scale s k a l e 
+scrive s k r i v e 
+sfrega s f r e g a 
+sorpresa s o r p r e s a 
+stato s t a t o 
+uomini w o m i n i 
+visto v i s t o 
+volte v O l t e 
+Aosta a O s t a 
+angelo a n dZ e l o 
+aspro a s p r o 
+bianco b j a n k o 
+bicicletta b i tS i k l e tt a 
+cantina k a n t i n a 
+cioe tS o E 
+classe k l a ss e 
+comune k o m u n e 
+confetti k o n f E tt i 
+fatto f a tt o 
+forma f o r m a 
+giovane dZ o v a n e 
+inglese i n g l e s e 
+letto l E tt o 
+morte m O r t e 
+notte n O tt e 
+nuovi n w O v i 
+oasi O a z i 
+otto O tt o 
+passato p a ss a t o 
+polvere p o l v e r e 
+prima p r i m a 
+sette s E tt e 
+sono s O n o 
+tempi t E m p i 
+vedere v e d e r e 
+viola v j O l a 
+volpe v o l p e 
+borotalco b o r o t a l k o 
+discreto d i s k r E t o 
+fantasmi f a n a z m i 
+marcire m a r tS i r e 
+auto a u t o 
+benzina b e n dz i n a 
+cravatta k r a v a tt a 
+due d u e 
+esplode e s p l O d e 
+freddo f r e dd o 
+massimo m a ss i m o 
+offeso o ff e s o 
+realta r e a l t a 
+rosso r o ss o 
+sei s E i 
+sgonfio z g o n f j o 
+temperatura t e m p e r a t u r a 
+tigre t i g r e 
+volume v o l u m e 
+vuole v w O l e 
+zucchero ts u kk e r o 
+Europa e u r O p a 
+albero a l b e r o 
+finestra f i n E s t r a 
+almeno a l m e n o 
+alto a l t o 
+aria a r j a 
+avevo a v e v o 
+campo k a m p o 
+casa k a s a 
+cucina k u tS i n a 
+giovani dZ o v a n i 
+italiani i t a l j a n i 
+luce l u tS e 
+ministro m i n i s t r o 
+nostro n O s t r o 
+nove n O v e 
+nuove n w O v e 
+paese p a e z e 
+parte p a r t e 
+persona p e r s o n a 
+piedi p j E d i 
+possono p O ss o n o 
+pressione p r e ss j o n e 
+scuri s k u r i 
+sera s e r a 
+tre t r E 
+trovare t r o v a r e 
+uno u n o 
+verde v e r d e 
