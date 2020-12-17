@@ -1,4 +1,4 @@
-0	1	!SIL	!SIL	0
+0	1	<SPOKEN_NOISE>	<SPOKEN_NOISE>	0
 1	2	Aosta	Aosta	5.76362133
 1	2	Europa	Europa	5.76362133
 1	2	abbassa	abbassa	5.76362133
