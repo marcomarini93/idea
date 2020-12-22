@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 """
-Give in input:
- - path of IDEA database
-
 Furthermore it could be pass as parameter a other flag:
  --disease: a specific or set of disease to be analyse
  --speakers_list: speakers id list of speakers that we want analyse
