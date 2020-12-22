@@ -63,7 +63,7 @@ echo "===== PREPARING DATA ====="
 echo
 
 # run python script
-$local_dir/prepare_dysita_data_lang.py $dysIta_src all || exit 1
+$local_dir/prepare_idea_data_lang.py $dysIta_src all || exit 1
 # if in SHARC server copy files from local dir
 #cp -rfv  $local_dir/data $data_dir
 for ss in train test; do
