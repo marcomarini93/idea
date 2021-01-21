@@ -1,6 +1,6 @@
 # idea
 This repo contains the kaldi recipe for IDEA (Italian dysarthric speech) database.
-For more details about IDEA and this recipe results see paper presented in SLT2021.
+For more details about IDEA and this recipe results see paper presented in SLT2021 (IDEA: AN ITALIAN DYSARTHRIC SPEECH DATABASE #1150).
 
 It is very important to setup some files in order to make it runnable in your system.
 The files to be setup are:
