@@ -13,6 +13,11 @@
 . ./path.sh
 . ./utils/parse_options.sh 
 
+# controll if utils and steps folders exist
+for dir in steps utils; do 
+	[ ! -h $dir ] && ln -s $KALDI_ROOT/egs/wsj/s5/$dir ./
+done
+
 # Begin configuration section.
 nj=13 # number of parallel jobs - 1 is perfect for such a small data set
 lm_order=1 # language model order (n-gram quantity) - 1 is enough for digits grammar
@@ -27,7 +32,7 @@ rm -rf exp mfcc data
 gmm=1
 dnn=1
 
-dysIta_src=/data/ac1mmx/IDEA
+dysIta_src=/mnt/databases/IDEA
 home_dir=`pwd`
 
 # path to local, data, feature and exp
@@ -63,7 +68,7 @@ echo "===== PREPARING DATA ====="
 echo
 
 # run python script
-$local_dir/prepare_idea_data_lang.py $dysIta_src all || exit 1
+$local_dir/prepare_idea_data_lang.py --database $dysIta_src --speakers_list "ALL" || exit 1
 # if in SHARC server copy files from local dir
 #cp -rfv  $local_dir/data $data_dir
 for ss in train test; do
@@ -73,7 +78,7 @@ for ss in train test; do
 	utils/validate_data_dir.sh --no-feats $ddir || exit 1
 done
 # copy lexicon special for 101
-cp local/lexicon_101.txt $dict_dir/lexicon.txt
+#cp local/lexicon_detailed.txt $dict_dir/lexicon.txt
 
 echo
 echo "===== PREPARING LANG ====="
@@ -107,8 +112,8 @@ echo "===== MAKING G.fst ====="
 echo
 
 # uni-gram, manually create the G.txt
-Gfil=$local_dir/G_2.txt
-[ ! -f $Gfil ] && echo "prepare datat: no such file $f" && exit 1;
+Gfil=$local_dir/G_model.txt
+[ ! -f $Gfil ] && echo "prepare data: no such file $Gfil" && exit 1;
 fstcompile --isymbols=$lang/words.txt --osymbols=$lang/words.txt --keep_isymbols=false \
     --keep_osymbols=false $Gfil | fstarcsort --sort_type=ilabel > $lang/G.fst || exit 1;
 
