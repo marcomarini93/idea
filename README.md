@@ -17,5 +17,5 @@ In local folder are present some useful files:
  word. e.g. the word 'casa' could be registered as 'ca silence sa' this is due to disease.
  So, this lexicon has been generated ad-hoc and present more ways to say a word. You can
  decide to use it or not in run.sh file.
- - prepare_dysita_data_lang.py: prepare all files that kaldi needs to run properly. Se it
+ - prepare_dysita_data_lang.py: prepare all files that kaldi needs to run properly. See it
  for more details.
